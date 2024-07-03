@@ -1,0 +1,20 @@
+{
+  "name": "fulfillmenttools-swagger-codegen-sdk-typescript",
+  "version": "3.0.1",
+  "description": "Typescript-SDK generated with swagger-codegen from OpenAPI-Specification https://raw.githubusercontent.com/fulfillmenttools/fulfillmenttools-api-reference/master/api.swagger.yaml to work with the fulfillmenttools-API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fulfillmenttools",
+    "sdk",
+    "typescript",
+    "swagger",
+    "openapi",
+    "nodejs",
+    "sdk-typescript"
+  ],
+  "author": "",
+  "license": "ISC"
+}
