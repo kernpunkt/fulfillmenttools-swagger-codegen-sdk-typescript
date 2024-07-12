@@ -1,4 +1,6 @@
 # fulfillmenttools-swagger-codegen-sdk-typescript
+This SDK was created with swagger-codegen from https://raw.githubusercontent.com/fulfillmenttools/fulfillmenttools-api-reference/master/api.swagger.yaml with openapi version 3.0.1
+
 ## examples
 
 ```ts
