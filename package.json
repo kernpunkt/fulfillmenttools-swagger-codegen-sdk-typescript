@@ -1,6 +1,6 @@
 {
   "name": "fulfillmenttools-swagger-codegen-sdk-typescript",
-  "version": "3.0.4",
+  "version": "3.0.1",
   "description": "Typescript-SDK generated with swagger-codegen from OpenAPI-Specification https://raw.githubusercontent.com/fulfillmenttools/fulfillmenttools-api-reference/master/api.swagger.yaml to work with the fulfillmenttools-API",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
